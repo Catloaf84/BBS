@@ -1,0 +1,29 @@
+{
+  "siteUrl": "http://localhost:8881",
+  "phpVersion": "8.2",
+  "wordpressVersion": "6.8.1",
+  "plugins": [
+    {
+      "name": "hello",
+      "status": "inactive",
+      "version": "1.7.2"
+    },
+    {
+      "name": "simply-static",
+      "status": "active",
+      "version": "3.2.8.1"
+    },
+    {
+      "name": "woocommerce",
+      "status": "active",
+      "version": "9.8.4"
+    }
+  ],
+  "themes": [
+    {
+      "name": "storefront",
+      "status": "active",
+      "version": "4.6.1"
+    }
+  ]
+}

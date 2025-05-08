@@ -1,0 +1,5 @@
+[2025-05-08 00:56:03] [class-ss-admin-settings.php:741] Received request to cancel static archive generation
+[2025-05-08 00:56:03] [class-ss-archive-creation-job.php:414] Status message: [cancel] Export cancelled.
+[2025-05-08 00:56:03] [class-ss-task.php:44] Status message: [cancel] Cancelling job
+[2025-05-08 00:56:03] [class-ss-wrapup-task.php:23] Deleting temporary files
+[2025-05-08 00:56:03] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
